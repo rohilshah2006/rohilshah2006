@@ -39,10 +39,9 @@ I specialize in building high-fidelity interactive tools and custom game engines
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohilshah2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rohil's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohilshah2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+![Rohil's Stats](https://github-readme-stats.vercel.app/api?username=rohilshah2006&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohilshah2006&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
