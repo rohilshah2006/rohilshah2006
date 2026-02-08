@@ -37,12 +37,4 @@ I specialize in building high-fidelity interactive tools and custom game engines
 
 ---
 
-## 📊 GitHub Stats
-
-![Rohil's Stats](https://github-readme-stats.vercel.app/api?username=rohilshah2006&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohilshah2006&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=rohilshah2006&style=flat-square&color=blueviolet)
