@@ -8,6 +8,12 @@ I specialize in building high-fidelity interactive tools and custom game engines
 
 ## 🚀 Featured Projects
 
+### 📂 [Agentic OS](https://github.com/rohilshah2006/Agentic-OS)
+> **A high-performance local file explorer built to outsmart Finder.**
+* **Engine:** Custom Full-Stack Architecture (Python Brain + React Face).
+* **Tech:** Python (FastAPI), React 18, Tailwind CSS, Shell Scripting.
+* **Highlight:** Infinite-scroll engine capable of sorting 12,000+ files in sub-milliseconds.
+
 ### 🏎️ [Flip Racer](https://github.com/rohilshah2006/java-physics-engine)
 > **A high-velocity physics platformer built in Java.**
 * **Engine:** Custom-built physics & collision system (No game engines used).
@@ -27,6 +33,7 @@ I specialize in building high-fidelity interactive tools and custom game engines
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Frameworks & Tools**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
