@@ -1,12 +1,18 @@
 # Hi there, I'm Rohil! 👋
 
-### 👨‍💻 Developer & Visual Engineer
+### 👨‍💻 Developer, Visual Engineer, Systems Architect
 
-I specialize in building high-fidelity interactive tools and custom game engines. I prefer writing my own physics and rendering logic over using pre-made libraries.
+I specialize in building high-fidelity interactive tools and custom game engines. I prefer writing my own physics and rendering logic over using pre-made libraries, and I build autonomous AI architectures for real-world scaling.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📈 [Alpha Seek V3](https://github.com/rohilshah2006/alpha-seek)
+> **An autonomous, quantitative analysis engine and portfolio tracker.**
+* **Engine:** Multi-Agent AI Pipeline (LangGraph) + Custom Python Quant Math.
+* **Tech:** Next.js 14, Supabase (Auth/RLS), Llama-3, GitHub Actions.
+* **Highlight:** Calculates live technical indicators (RSI, SMAs) and autonomously dispatches institutional-grade financial reports at 6:00 AM daily.
 
 ### 📂 [Agentic OS](https://github.com/rohilshah2006/Agentic-OS)
 > **A high-performance local file explorer built to outsmart Finder.**
@@ -36,11 +42,19 @@ I specialize in building high-fidelity interactive tools and custom game engines
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Frameworks & Tools**
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud, Database & AI**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 ---
 
