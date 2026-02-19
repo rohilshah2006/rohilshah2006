@@ -18,7 +18,7 @@ I specialize in building high-fidelity interactive tools and custom game engines
 > **A high-performance local file explorer built to outsmart Finder.**
 * **Engine:** Custom Full-Stack Architecture (Python Brain + React Face).
 * **Tech:** Python (FastAPI), React 18, Tailwind CSS, Shell Scripting.
-* **Highlight:** Infinite-scroll engine capable of sorting 12,000+ files in sub-milliseconds.
+* **Highlight:** Infinite-scroll engine capable of sorting 35,000+ files in sub-milliseconds.
 
 ### 🏎️ [Flip Racer](https://github.com/rohilshah2006/java-physics-engine)
 > **A high-velocity physics platformer built in Java.**
