@@ -1,4 +1,4 @@
-# Hi there, I'm Rohil! 👋
+# Hi there, I'm Rohil. 👋
 
 ### 👨‍💻 Developer, Visual Engineer, Systems Architect
 
