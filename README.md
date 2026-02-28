@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Developer, Visual Engineer, Systems Architect
 
-I specialize in building high-fidelity interactive tools and custom game engines. I prefer writing my own physics and rendering logic over using pre-made libraries, and I build autonomous AI architectures for real-world scaling.
+I specialize in building high-fidelity interactive tools and custom game engines. I also build autonomous AI architectures for real-world scaling.
 
 ---
 
