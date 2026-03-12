@@ -8,35 +8,38 @@ I specialize in building high-fidelity interactive tools and custom game engines
 
 ## 🚀 Featured Projects
 
-### 📈 [Alpha Seek V3](https://github.com/rohilshah2006/alpha-seek)
+### 🧠 [Naxera AI](https://github.com/rohilshah2006/naxera-ai)
 > **An autonomous, quantitative analysis engine and portfolio tracker.**
 * **Engine:** Multi-Agent AI Pipeline (LangGraph) + Custom Python Quant Math.
 * **Tech:** Next.js 14, Supabase (Auth/RLS), Llama-3, GitHub Actions.
 * **Highlight:** Calculates live technical indicators (RSI, SMAs) and autonomously dispatches institutional-grade financial reports at 6:00 AM daily.
 
-### 📂 [Agentic OS](https://github.com/rohilshah2006/Agentic-OS)
-> **A high-performance local file explorer built to outsmart Finder.**
-* **Engine:** Custom Full-Stack Architecture (Python Brain + React Face).
-* **Tech:** Python (FastAPI), React 18, Tailwind CSS, Shell Scripting.
-* **Highlight:** Infinite-scroll engine capable of sorting 35,000+ files in sub-milliseconds.
-
-### 🏎️ [Flip Racer](https://github.com/rohilshah2006/java-physics-engine)
-> **A high-velocity physics platformer built in Java.**
-* **Engine:** Custom-built physics & collision system (No game engines used).
-* **Tech:** Java 21, JavaFX, AABB Collision.
-* **Highlight:** "Railgunning" mechanics and momentum-based gameplay.
+### 🔌 [Menu USB Center](https://github.com/rohilshah2006/menu-usb-center)
+> **A sleek macOS utility for managing and renaming USB devices directly from your menu bar.**
+* **Tech:** Swift, AppKit, System Events.
+* **Highlight:** Real-time notifications and quick-rename functionality for external storage.
 
 ### 📅 [Subscription Calendar](https://github.com/rohilshah2006/subscription-calendar)
-> **A radial financial visualization tool.**
+> **A radial financial visualization tool for managing recurring expenses.**
 * **Engine:** Mathematical coordinate rendering (`Math.cos`, `Math.sin`).
 * **Tech:** React 18, Tailwind CSS, Custom Animations.
 * **Highlight:** Fluid transitions between calendar and orbital views.
 
 ---
 
+## 📂 More Projects
+
+*   **[Infinity Blog](https://github.com/rohilshah2006/infinity-blog)** – A highly customizable, full-stack blogging platform.
+*   **[Agentic OS](https://github.com/rohilshah2006/agentic-os)** – High-performance local file explorer designed to outsmart Finder.
+*   **[Kaizen](https://github.com/rohilshah2006/kaizen)** – A categorized to-do system focused on continuous improvement.
+*   **[Java Physics Engine](https://github.com/rohilshah2006/java-physics-engine)** – A momentum-based physics engine and platformer built from scratch.
+
+---
+
 **Primary Languages**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/-Swift-%23F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Frameworks & Tools**
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
