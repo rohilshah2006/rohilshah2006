@@ -30,6 +30,7 @@ I specialize in building high-fidelity interactive tools and custom game engines
 ## 📂 More Projects
 
 *   **[Infinity Blog](https://github.com/rohilshah2006/infinity-blog)** – A highly customizable, full-stack blogging platform.
+*   **[MacOS Better Emojis](https://github.com/rohilshah2006/macos-better-emojis)** – A lightning-fast, system-wide emoji picker for macOS.
 *   **[Agentic OS](https://github.com/rohilshah2006/agentic-os)** – High-performance local file explorer designed to outsmart Finder.
 *   **[Kaizen](https://github.com/rohilshah2006/kaizen)** – A categorized to-do system focused on continuous improvement.
 *   **[Java Physics Engine](https://github.com/rohilshah2006/java-physics-engine)** – A momentum-based physics engine and platformer built from scratch.
